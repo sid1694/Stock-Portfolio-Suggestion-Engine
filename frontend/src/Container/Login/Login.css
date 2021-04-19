@@ -1,0 +1,11 @@
+#bg1 {
+    /* background-image: url("https://www.sjsu.edu/_images/buildings/ADV_about-sjsu_2.jpg"); */
+
+    /* Full height */
+    width: 100%;
+    height: 100vh;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
